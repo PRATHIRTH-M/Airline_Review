@@ -1,5 +1,3 @@
-import nltk
-from nltk.sentiment import SentimentIntensityAnalyzer
 import streamlit as st
 import pickle
 import numpy as np
